@@ -1,6 +1,6 @@
 # Damage Detection Project
 ## Getting Images
-- I will upload the videos and the maps of the area they represent to [onedrive](https://mailmissouri-my.sharepoint.com/:f:/g/personal/mjhf89_umsystem_edu/EhGDOTgKdXhOtuxAkwNNXXsBui1cQnenn265BD2JKhCmAQ?e=iDKXkY) and send links out to the team.
+- I will upload the videos and the maps of the area they represent to [onedrive](https://mailmissouri-my.sharepoint.com/:f:/g/personal/mjhf89_umsystem_edu/EhGDOTgKdXhOtuxAkwNNXXsB-TmH_iuOQT2bMKbj9MImHA?e=nG66TD) and send links out to the team.
 - You can extract the images and then use a program like [pot player](https://potplayer.daum.net/) to extract images from the videos
 - If you are using pot player, open the mp4 file and then press ctrl+G to open the consecutive image capture menu.
 - Set the location you would like the images to go using the Storage line at the top.
