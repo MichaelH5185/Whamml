@@ -6,7 +6,7 @@
 - Set the location you would like the images to go using the Storage line at the top.
 - I suggest setting the rate of capture to something like 3000ms or 5000ms
 - I would also recommend setting the file prefix to something link img
-- Some of the videos start with wide angled views of the city; since this will lead to a large amount of unaccessible buildings please either crop the images or not use them.
+- Some of the videos start with wide angled views of the city; since this will lead to a large amount of unaccessible buildings please either crop the images or not use them. **Do not change the aspect ratio to anything other than 16:9**
 ## Uploading the Images to Roboflow
 - I will add your emails to the Roboflow project when we start
 - To upload your images, navigate to Animal_Project > Upload Data and either upload your folder with all your images or use upload files to upload individual images.
