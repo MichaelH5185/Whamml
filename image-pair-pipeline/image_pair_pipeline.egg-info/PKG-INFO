@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: image-pair-pipeline
+Version: 0.1.0
+Summary: Before/after drone image pair pipeline for Siamese classifier training
+Requires-Python: >=3.9
+Requires-Dist: ultralytics>=8.0
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: click
+Requires-Dist: Pillow
+Requires-Dist: tqdm

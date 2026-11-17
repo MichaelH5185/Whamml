@@ -1,0 +1,2 @@
+[console_scripts]
+image-pair-pipeline = pipeline.cli:main

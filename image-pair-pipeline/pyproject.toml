@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "image-pair-pipeline"
+version = "0.1.0"
+description = "Before/after drone image pair pipeline for Siamese classifier training"
+requires-python = ">=3.9"
+dependencies = [
+    "ultralytics>=8.0",
+    "opencv-python",
+    "numpy",
+    "scipy",
+    "pandas",
+    "click",
+    "Pillow",
+    "tqdm",
+]
+
+[project.scripts]
+image-pair-pipeline = "pipeline.cli:main"
